@@ -1,7 +1,7 @@
 # vuestudy
 
 > this is a  vue project for personal study
-
+vue实战与git结合
 ## Build Setup
 
 ``` bash
